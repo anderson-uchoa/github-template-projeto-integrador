@@ -58,7 +58,7 @@ Lista as tecnologias, frameworks e bibliotecas utilizados.
 | POST | api/entidade2 |
 
 ## Documentação
-* [Documento de visão do projeto](https://github.com/github-template-projeto-integrador/docs/documento_visao.docx)
-* [Regras gerais da disciplina](https://github.com/github-template-projeto-integrador/docs/regras_gerais.pdf)
+* [Documento de visão do projeto](https://github.com/anderson-uchoa/github-template-projeto-integrador/blob/main/docs/documento_visao.docx)
+* [Regras gerais da disciplina](https://github.com/anderson-uchoa/github-template-projeto-integrador/blob/main/docs/regras_gerais.pdf)
 * [Apresentação do Projeto] - Vídeo a ser criado
 
