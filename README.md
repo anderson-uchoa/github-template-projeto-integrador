@@ -2,9 +2,9 @@
 
 Breve descrição do que o seu projeto faz.
 
-## :technologist: Membros da equipe
+## :technologist: Membros da equipe e Orientador
 
-Matrícula, nome e curso dos participantes.
+Matrícula, nome e curso dos participantes, assim como o Prof. Orientador.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
@@ -58,7 +58,7 @@ Lista as tecnologias, frameworks e bibliotecas utilizados.
 | POST | api/entidade2 |
 
 ## Documentação
-* [Documento de visão do projeto](https://github.com/github-template-projeto-integrador/docs/descricao_projeto.pdf)
+* [Documento de visão do projeto](https://github.com/github-template-projeto-integrador/docs/documento_visao.docx)
 * [Regras gerais da disciplina](https://github.com/github-template-projeto-integrador/docs/regras_gerais.pdf)
 * [Apresentação do Projeto] - Vídeo a ser criado
 
